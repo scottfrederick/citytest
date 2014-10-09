@@ -8,6 +8,6 @@ public class VersionController {
 
     @RequestMapping("/version")
     public String index() {
-        return "Greetings Dallas Cloud Foundry Roadshow!";
+        return "Greetings Cloud Foundry Roadshow!";
     }
 }
